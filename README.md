@@ -1,6 +1,6 @@
 # Extraccion de datos API Series de Tiempo
 
-Tecnologías utilizadas: Python, Docker y Apache Airflow
+Tecnologías utilizadas: Python, Docker, Apache Airflow
 
 Para la temática del presente trabajo se creó un proceso ETL desde cero, configurando un pipeline que extrae datos de la API gubernamental "Series de Tiempo". La información extraída incluye valores como la cotización del dólar, Indices de Precios al Consumidor en distintos rubros, así como la variación porcentual del Indice de Precios al consumidor a nivel general.
 
