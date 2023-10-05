@@ -1,4 +1,4 @@
-# Extraccion de datos API Series de Tiempo
+# Extracción de datos API Series de Tiempo
 
 Tecnologías utilizadas: Python, Docker, Apache Airflow
 
